@@ -556,7 +556,7 @@
 			]
 		},
 		"forceServerRules": 0,
-		"name": "North Equatorial",
+		"name": "Western Tropical",
 		"region": "",
 		"resources": [
 			"Acerola",
@@ -895,7 +895,7 @@
 			]
 		},
 		"forceServerRules": 0,
-		"name": "Western Tropical",
+		"name": "North Equatorial",
 		"region": "",
 		"resources": [
 			"Acai",
