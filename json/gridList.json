@@ -604,7 +604,7 @@
 		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult,SunkenTreasureEnabled",
 		"serverCustomDatas2": ",0,1.1,1.1,0.75,0,0.6,1",
 		"serverIslandPointsMultiplier": -1,
-		"serverTemplate": "Equatorial",
+		"serverTemplate": "Western Tropical",
 		"sotd": {
 			"levelLerp": 1.100000023841858,
 			"levelMinOveride": 0,
@@ -954,7 +954,7 @@
 		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult,SunkenTreasureEnabled",
 		"serverCustomDatas2": ",0.36,1.1,1.1,0.75,1.25,0.6,1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Tropical",
+		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1.100000023841858,
 			"levelMinOveride": 0,
