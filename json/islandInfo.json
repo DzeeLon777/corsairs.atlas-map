@@ -1,1 +1,294 @@
-null
+{
+    "1": {
+        "id": 1,
+        "islandPoints": -1
+    },
+    "10": {
+        "id": 10,
+        "islandPoints": -1
+    },
+    "105": {
+        "id": 105,
+        "islandPoints": 0
+    },
+    "106": {
+        "id": 106,
+        "islandPoints": 57
+    },
+    "107": {
+        "id": 107,
+        "islandPoints": 35
+    },
+    "108": {
+        "id": 108,
+        "islandPoints": 15
+    },
+    "109": {
+        "id": 109,
+        "islandPoints": 15
+    },
+    "11": {
+        "id": 11,
+        "islandPoints": -1
+    },
+    "110": {
+        "id": 110,
+        "islandPoints": -57
+    },
+    "12": {
+        "id": 12,
+        "islandPoints": -1
+    },
+    "13": {
+        "id": 13,
+        "islandPoints": -1
+    },
+    "14": {
+        "id": 14,
+        "islandPoints": -1
+    },
+    "15": {
+        "id": 15,
+        "islandPoints": -1
+    },
+    "159": {
+        "id": 159,
+        "islandPoints": -35
+    },
+    "16": {
+        "id": 16,
+        "islandPoints": -1
+    },
+    "17": {
+        "id": 17,
+        "islandPoints": -1
+    },
+    "173": {
+        "id": 173,
+        "islandPoints": -35
+    },
+    "174": {
+        "id": 174,
+        "islandPoints": 57
+    },
+    "18": {
+        "id": 18,
+        "islandPoints": -1
+    },
+    "19": {
+        "id": 19,
+        "islandPoints": 1
+    },
+    "2": {
+        "id": 2,
+        "islandPoints": -1
+    },
+    "20": {
+        "id": 20,
+        "islandPoints": 1
+    },
+    "21": {
+        "id": 21,
+        "islandPoints": 1
+    },
+    "22": {
+        "id": 22,
+        "islandPoints": 1
+    },
+    "23": {
+        "id": 23,
+        "islandPoints": -24
+    },
+    "24": {
+        "id": 24,
+        "islandPoints": 15
+    },
+    "25": {
+        "id": 25,
+        "islandPoints": -35
+    },
+    "26": {
+        "id": 26,
+        "islandPoints": 35
+    },
+    "27": {
+        "id": 27,
+        "islandPoints": -35
+    },
+    "28": {
+        "id": 28,
+        "islandPoints": 46
+    },
+    "29": {
+        "id": 29,
+        "islandPoints": 35
+    },
+    "3": {
+        "id": 3,
+        "islandPoints": -1
+    },
+    "30": {
+        "id": 30,
+        "islandPoints": 15
+    },
+    "31": {
+        "id": 31,
+        "islandPoints": 15
+    },
+    "32": {
+        "id": 32,
+        "islandPoints": 35
+    },
+    "33": {
+        "id": 33,
+        "islandPoints": -24
+    },
+    "34": {
+        "id": 34,
+        "islandPoints": -15
+    },
+    "35": {
+        "id": 35,
+        "islandPoints": 57
+    },
+    "36": {
+        "id": 36,
+        "islandPoints": -57
+    },
+    "37": {
+        "id": 37,
+        "islandPoints": -35
+    },
+    "38": {
+        "id": 38,
+        "islandPoints": 46
+    },
+    "39": {
+        "id": 39,
+        "islandPoints": 46
+    },
+    "4": {
+        "id": 4,
+        "islandPoints": 1
+    },
+    "40": {
+        "id": 40,
+        "islandPoints": 15
+    },
+    "41": {
+        "id": 41,
+        "islandPoints": 57
+    },
+    "42": {
+        "id": 42,
+        "islandPoints": -35
+    },
+    "43": {
+        "id": 43,
+        "islandPoints": -46
+    },
+    "45": {
+        "id": 45,
+        "islandPoints": -35
+    },
+    "46": {
+        "id": 46,
+        "islandPoints": -57
+    },
+    "47": {
+        "id": 47,
+        "islandPoints": 57
+    },
+    "48": {
+        "id": 48,
+        "islandPoints": 57
+    },
+    "49": {
+        "id": 49,
+        "islandPoints": 1
+    },
+    "5": {
+        "id": 5,
+        "islandPoints": 1
+    },
+    "51": {
+        "id": 51,
+        "islandPoints": -35
+    },
+    "52": {
+        "id": 52,
+        "islandPoints": -35
+    },
+    "53": {
+        "id": 53,
+        "islandPoints": 15
+    },
+    "54": {
+        "id": 54,
+        "islandPoints": -15
+    },
+    "55": {
+        "id": 55,
+        "islandPoints": -15
+    },
+    "57": {
+        "id": 57,
+        "islandPoints": -57
+    },
+    "58": {
+        "id": 58,
+        "islandPoints": -57
+    },
+    "59": {
+        "id": 59,
+        "islandPoints": -35
+    },
+    "6": {
+        "id": 6,
+        "islandPoints": -1
+    },
+    "62": {
+        "id": 62,
+        "islandPoints": 57
+    },
+    "64": {
+        "id": 64,
+        "islandPoints": 35
+    },
+    "7": {
+        "id": 7,
+        "islandPoints": -1
+    },
+    "8": {
+        "id": 8,
+        "islandPoints": -1
+    },
+    "80": {
+        "id": 80,
+        "islandPoints": -57
+    },
+    "81": {
+        "id": 81,
+        "islandPoints": -57
+    },
+    "82": {
+        "id": 82,
+        "islandPoints": -57
+    },
+    "88": {
+        "id": 88,
+        "islandPoints": 57
+    },
+    "89": {
+        "id": 89,
+        "islandPoints": 0
+    },
+    "9": {
+        "id": 9,
+        "islandPoints": 1
+    },
+    "90": {
+        "id": 90,
+        "islandPoints": 0
+    }
+}

@@ -3981,7 +3981,7 @@
 		"id": 1,
 		"isControlPoint": false,
 		"islandHeight": 532000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 532000,
 		"name": "Cay_C_EE_PVE",
 		"region": "",
@@ -4062,7 +4062,7 @@
 		"id": 2,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4109,7 +4109,7 @@
 		"id": 3,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4152,7 +4152,7 @@
 		"id": 4,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4197,7 +4197,7 @@
 					-25.13504409790039,
 					75.10875701904297
 				],
-				"name": "Equatorial Ocean Water",
+				"name": "Tropical Ocean Water",
 				"temp": [
 					-999,
 					70
@@ -4208,7 +4208,7 @@
 					-25.28459358215332,
 					75.10875701904297
 				],
-				"name": "Equatorial At Land",
+				"name": "Tropical At Land",
 				"temp": [
 					-999,
 					70
@@ -4221,7 +4221,7 @@
 		"id": 5,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4264,7 +4264,7 @@
 		"id": 6,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4307,7 +4307,7 @@
 		"id": 7,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4350,7 +4350,7 @@
 		"id": 8,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4419,7 +4419,7 @@
 		"id": 9,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -4462,7 +4462,7 @@
 		"id": 10,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -5313,7 +5313,7 @@
 		"id": 11,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_Y_WU_PVE",
 		"region": "",
@@ -6175,7 +6175,7 @@
 		"id": 12,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_Y_EU_PVE",
 		"region": "",
@@ -7153,7 +7153,7 @@
 		"id": 13,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_X_WR_PVE",
 		"region": "",
@@ -8585,7 +8585,7 @@
 		"id": 14,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_U_ER_PVE",
 		"region": "",
@@ -10980,7 +10980,7 @@
 		"id": 15,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_S_WT_PVE",
 		"region": "",
@@ -13395,7 +13395,7 @@
 		"id": 16,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_R_CL_PVE",
 		"region": "",
@@ -15794,7 +15794,7 @@
 		"id": 17,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_R_CH_PVE",
 		"region": "",
@@ -18793,7 +18793,7 @@
 		"id": 18,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_G_ET_PVE",
 		"region": "",
@@ -19603,7 +19603,7 @@
 		"id": 19,
 		"isControlPoint": false,
 		"islandHeight": 254000,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 254000,
 		"maps": [
 			[
@@ -20429,7 +20429,7 @@
 		"id": 20,
 		"isControlPoint": false,
 		"islandHeight": 254000,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 254000,
 		"maps": [
 			[
@@ -21255,7 +21255,7 @@
 		"id": 21,
 		"isControlPoint": false,
 		"islandHeight": 254000,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 254000,
 		"maps": [
 			[
@@ -22081,7 +22081,7 @@
 		"id": 22,
 		"isControlPoint": false,
 		"islandHeight": 254000,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 254000,
 		"maps": [
 			[
@@ -22672,7 +22672,7 @@
 		"id": 23,
 		"isControlPoint": false,
 		"islandHeight": 152000,
-		"islandPoints": 0,
+		"islandPoints": -24,
 		"islandWidth": 152000,
 		"maps": [
 			[
@@ -22996,7 +22996,7 @@
 		"id": 24,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -24229,7 +24229,7 @@
 		"id": 25,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -25198,7 +25198,7 @@
 		"id": 26,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -26344,7 +26344,7 @@
 		"id": 27,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -27584,7 +27584,7 @@
 		"id": 28,
 		"isControlPoint": false,
 		"islandHeight": 255000,
-		"islandPoints": 0,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"maps": [
 			[
@@ -28615,7 +28615,7 @@
 		"id": 29,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -28957,7 +28957,7 @@
 		"id": 30,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -29295,7 +29295,7 @@
 		"id": 31,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -30501,7 +30501,7 @@
 		"id": 32,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -31128,7 +31128,7 @@
 		"id": 33,
 		"isControlPoint": false,
 		"islandHeight": 152000,
-		"islandPoints": 0,
+		"islandPoints": -24,
 		"islandWidth": 152000,
 		"maps": [
 			[
@@ -31623,7 +31623,7 @@
 		"id": 34,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": -15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -32560,7 +32560,7 @@
 		"id": 35,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -34355,7 +34355,7 @@
 		"id": 36,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -35912,7 +35912,7 @@
 		"id": 37,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -37419,7 +37419,7 @@
 		"id": 38,
 		"isControlPoint": false,
 		"islandHeight": 255000,
-		"islandPoints": 0,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"maps": [
 			[
@@ -38367,7 +38367,7 @@
 		"id": 39,
 		"isControlPoint": false,
 		"islandHeight": 255000,
-		"islandPoints": 0,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"maps": [
 			[
@@ -38958,7 +38958,7 @@
 		"id": 40,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -42380,7 +42380,7 @@
 		"id": 41,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -43453,7 +43453,7 @@
 		"id": 42,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -44450,7 +44450,7 @@
 		"id": 43,
 		"isControlPoint": false,
 		"islandHeight": 255000,
-		"islandPoints": 0,
+		"islandPoints": -46,
 		"islandWidth": 255000,
 		"maps": [
 			[
@@ -45813,7 +45813,7 @@
 		"id": 45,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -47918,7 +47918,7 @@
 		"id": 46,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -49716,7 +49716,7 @@
 		"id": 47,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -51329,7 +51329,7 @@
 		"id": 48,
 		"isControlPoint": false,
 		"islandHeight": 305000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 305000,
 		"maps": [
 			[
@@ -54522,7 +54522,7 @@
 		"id": 49,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 1,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -55592,7 +55592,7 @@
 		"id": 51,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -56555,7 +56555,7 @@
 		"id": 52,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -57067,7 +57067,7 @@
 		"id": 53,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -57494,7 +57494,7 @@
 		"id": 54,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": -15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -57950,7 +57950,7 @@
 		"id": 55,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": -15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -60206,7 +60206,7 @@
 		"id": 57,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -61864,7 +61864,7 @@
 		"id": 58,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -62905,7 +62905,7 @@
 		"id": 59,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -63767,7 +63767,7 @@
 		"id": 62,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -65219,7 +65219,7 @@
 		"id": 64,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -66006,7 +66006,7 @@
 		"id": 80,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -68744,7 +68744,7 @@
 		"id": 81,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -70014,7 +70014,7 @@
 		"id": 82,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -71557,7 +71557,7 @@
 		"id": 88,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -73082,7 +73082,7 @@
 		"id": 106,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -73951,7 +73951,7 @@
 		"id": 107,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -74300,7 +74300,7 @@
 		"id": 108,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -74636,7 +74636,7 @@
 		"id": 109,
 		"isControlPoint": false,
 		"islandHeight": 101600,
-		"islandPoints": 0,
+		"islandPoints": 15,
 		"islandWidth": 101600,
 		"maps": [
 			[
@@ -76591,7 +76591,7 @@
 		"id": 110,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": -57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -77843,7 +77843,7 @@
 		"id": 159,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -79466,7 +79466,7 @@
 		"id": 173,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": 0,
+		"islandPoints": -35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -81535,7 +81535,7 @@
 		"id": 174,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": 0,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
