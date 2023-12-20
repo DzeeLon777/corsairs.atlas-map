@@ -542,10 +542,12 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Equatorial",
-			"Equator",
-			"Tropical Ocean Water",
-			"Tropical At Land"
+			"Western Tropical",
+			"Western Tropics",
+			"Equatorial Ocean Water",
+			"Equatorial At Land",
+			"Western Temperate",
+			"Eastern Tropics"
 		],
 		"flotsam": {
 			"qualityMultiplier": 0.421875,
@@ -879,12 +881,10 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Western Tropical",
-			"Western Tropics",
-			"Equatorial Ocean Water",
-			"Equatorial At Land",
-			"Western Temperate",
-			"Eastern Tropics"
+			"Equatorial",
+			"Equator",
+			"Tropical Ocean Water",
+			"Tropical At Land"
 		],
 		"flotsam": {
 			"qualityMultiplier": 0.421875,
