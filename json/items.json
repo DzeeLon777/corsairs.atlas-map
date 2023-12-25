@@ -41,16 +41,6 @@
         },
         "Name": "1Tier Monument Framework"
     },
-    "ARK Raft": {
-        "ClassName": "Ship_ARK_Raft_C",
-        "Icon": "Raft_Ark_Icon",
-        "Ingredients": {
-            "Fibers": 125.0,
-            "Hide": 60.0,
-            "Wood": 250.0
-        },
-        "Name": "ARK Raft"
-    },
     "Aberrant Helmet Skin": {
         "ClassName": "Skin_Shoppable_C",
         "Ingredients": {
@@ -1458,25 +1448,6 @@
         "Icon": "Carapace_Icon",
         "Name": "Carapace"
     },
-    "Caravela": {
-        "ClassName": "Ship_Caravela_C",
-        "Icon": "CaravelaIcon4",
-        "Ingredients": {
-            "Fibers": 232.0,
-            "Metal": 52.0,
-            "Thatch": 390.0,
-            "Wood": 270.0
-        },
-        "Name": "Caravela"
-    },
-    "Caravela (Cheat)": {
-        "ClassName": "Ship_Caravela_Cheat_C",
-        "Icon": "CaravelaIcon4",
-        "Ingredients": {
-            "Wood": 1.0
-        },
-        "Name": "Caravela (Cheat)"
-    },
     "Carbine": {
         "ClassName": "WeaponYarkSniperRifle_C",
         "Icon": "HUD_SSR_Colorize_d",
@@ -1712,17 +1683,6 @@
             "Gold Coin": 50.0
         },
         "Name": "Chalcedony"
-    },
-    "Chalupa": {
-        "ClassName": "Ship_Chalupa_C",
-        "Icon": "ChalupaIcon4",
-        "Ingredients": {
-            "Fibers": 110.0,
-            "Metal": 8.0,
-            "Thatch": 180.0,
-            "Wood": 120.0
-        },
-        "Name": "Chalupa"
     },
     "Chamomile": {
         "ClassName": "Consumable_MedHerb_Chamomile_C",
@@ -2990,16 +2950,6 @@
         },
         "Name": "Dinghy Hangar Ship Railing (Kraken)"
     },
-    "Dinghy Sail": {
-        "ClassName": "Ship_Dinghy_Sail_C",
-        "Icon": "dingblackicon3",
-        "Ingredients": {
-            "Fibers": 90.0,
-            "Hide": 40.0,
-            "Wood": 80.0
-        },
-        "Name": "Dinghy Sail"
-    },
     "Dinghy Ship Hangar": {
         "ClassName": "Structure_ShipHangar_Dinghy_C",
         "Icon": "Item_DinghyDock_Icon",
@@ -3010,17 +2960,6 @@
             "Wood": 210.0
         },
         "Name": "Dinghy Ship Hangar"
-    },
-    "Dinghy Ship Hangar Caravela": {
-        "ClassName": "Structure_ShipHangar_Caravela_Base_C",
-        "Icon": "Item_DinghyDockCaravela_Icon2",
-        "Ingredients": {
-            "Fibers": 60.0,
-            "Hide": 15.0,
-            "Metal": 40.0,
-            "Wood": 175.0
-        },
-        "Name": "Dinghy Ship Hangar Caravela"
     },
     "Diving Attachment": {
         "ClassName": "Structure_DivingAttachment_C",
@@ -7642,16 +7581,6 @@
         },
         "Name": "Medium Weight Sail"
     },
-    "Medium Wood Canopy Deck Art": {
-        "ClassName": "Medium_Wood_Canopy_Deck_Art_C",
-        "Icon": "Medium_Deck_Canopy_icon",
-        "Ingredients": {
-            "Fibers": 94.0,
-            "Thatch": 176.0,
-            "Wood": 246.0
-        },
-        "Name": "Medium Wood Canopy Deck Art"
-    },
     "Medium Wood Gate": {
         "ClassName": "Structure_Gate_S_Wood_C",
         "Icon": "Item_WoodGateDoorSmall_Icon",
@@ -9351,18 +9280,6 @@
         },
         "Name": "Ramming Galley"
     },
-    "Ramshackle Caravela": {
-        "ClassName": "Ship_Caravela_Gold_C",
-        "Icon": "CaravelaIcon4",
-        "Ingredients": {
-            "Fibers": 175.0,
-            "Gold Coin": 35.0,
-            "Metal": 32.0,
-            "Thatch": 220.0,
-            "Wood": 200.0
-        },
-        "Name": "Ramshackle Caravela"
-    },
     "Raptor Egg": {
         "ClassName": "Consumable_Egg_Raptor_C",
         "Icon": "Egg_Icon",
@@ -10416,17 +10333,6 @@
         },
         "Name": "Ship Steering Wheel"
     },
-    "ShipCargoRack Caravela": {
-        "ClassName": "Structure_ShipHangarCargo_Caravela_C",
-        "Icon": "CargoCaravelaIcon",
-        "Ingredients": {
-            "Fibers": 386.0,
-            "Hide": 82.0,
-            "Metal": 78.0,
-            "Wood": 452.0
-        },
-        "Name": "ShipCargoRack Caravela"
-    },
     "ShipHangarBase": {
         "ClassName": "Structure_ShipHangar_Base_C",
         "Icon": "MenuArrowRight",
@@ -10773,16 +10679,6 @@
         },
         "Name": "Small Weight Sail"
     },
-    "Small Wood Canopy Deck Art": {
-        "ClassName": "Small_Wood_Canopy_Deck_Art_C",
-        "Icon": "Small_Deck_Canopy_icon",
-        "Ingredients": {
-            "Fibers": 40.0,
-            "Thatch": 105.0,
-            "Wood": 70.0
-        },
-        "Name": "Small Wood Canopy Deck Art"
-    },
     "Small Wood Gate": {
         "ClassName": "Structure_Gate_XS_Wood_C",
         "Icon": "Item_WoodGateWaySmall2_Icon",
@@ -10804,16 +10700,6 @@
             "Wood": 180.0
         },
         "Name": "Small Wood Gateway"
-    },
-    "Small Wood Gunport": {
-        "ClassName": "Ship_Gunport_Wood_Small_C",
-        "Icon": "SmallGunPort_Icon",
-        "Ingredients": {
-            "Fibers": 50.0,
-            "Thatch": 60.0,
-            "Wood": 65.0
-        },
-        "Name": "Small Wood Gunport"
     },
     "Small Wood Plank": {
         "ClassName": "Ship_Plank_Wood_Small_C",

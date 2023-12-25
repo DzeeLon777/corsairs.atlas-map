@@ -4197,7 +4197,7 @@
 					-25.13504409790039,
 					75.10875701904297
 				],
-				"name": "Tropical Ocean Water",
+				"name": "Equatorial Ocean Water",
 				"temp": [
 					-999,
 					70
@@ -4208,7 +4208,7 @@
 					-25.28459358215332,
 					75.10875701904297
 				],
-				"name": "Tropical At Land",
+				"name": "Equatorial At Land",
 				"temp": [
 					-999,
 					70
@@ -4221,7 +4221,7 @@
 		"id": 5,
 		"isControlPoint": false,
 		"islandHeight": 406500,
-		"islandPoints": 1,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -43453,7 +43453,7 @@
 		"id": 42,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": -35,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -44450,7 +44450,7 @@
 		"id": 43,
 		"isControlPoint": false,
 		"islandHeight": 255000,
-		"islandPoints": -46,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"maps": [
 			[
@@ -45813,7 +45813,7 @@
 		"id": 45,
 		"isControlPoint": false,
 		"islandHeight": 204000,
-		"islandPoints": -35,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -47918,7 +47918,7 @@
 		"id": 46,
 		"isControlPoint": false,
 		"islandHeight": 306000,
-		"islandPoints": -57,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[

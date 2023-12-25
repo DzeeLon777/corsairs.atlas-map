@@ -181,19 +181,19 @@
     },
     "42": {
         "id": 42,
-        "islandPoints": -35
+        "islandPoints": 35
     },
     "43": {
         "id": 43,
-        "islandPoints": -46
+        "islandPoints": 46
     },
     "45": {
         "id": 45,
-        "islandPoints": -35
+        "islandPoints": 35
     },
     "46": {
         "id": 46,
-        "islandPoints": -57
+        "islandPoints": 57
     },
     "47": {
         "id": 47,
@@ -209,7 +209,7 @@
     },
     "5": {
         "id": 5,
-        "islandPoints": 1
+        "islandPoints": -1
     },
     "51": {
         "id": 51,

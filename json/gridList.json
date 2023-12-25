@@ -542,12 +542,10 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Western Tropical",
-			"Western Tropics",
+			"Equatorial",
+			"Equator",
 			"Equatorial Ocean Water",
-			"Equatorial At Land",
-			"Western Temperate",
-			"Eastern Tropics"
+			"Equatorial At Land"
 		],
 		"flotsam": {
 			"qualityMultiplier": 0.421875,
@@ -558,7 +556,7 @@
 			]
 		},
 		"forceServerRules": 0,
-		"name": "Western Tropical",
+		"name": "North Equatorial",
 		"region": "",
 		"resources": [
 			"Acerola",
@@ -603,10 +601,10 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult,SunkenTreasureEnabled",
-		"serverCustomDatas2": ",0,1.1,1.1,0.75,0,0.6,1",
-		"serverIslandPointsMultiplier": -1,
-		"serverTemplate": "Western Tropical",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult,SunkenTreasureEnabled",
+		"serverCustomDatas2": ",0.36,1.1,1.1,0.75,1.25,0.6,1",
+		"serverIslandPointsMultiplier": 1,
+		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1.100000023841858,
 			"levelMinOveride": 0,
@@ -881,10 +879,12 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Equatorial",
-			"Equator",
+			"Western Tropical",
+			"Western Tropics",
 			"Tropical Ocean Water",
-			"Tropical At Land"
+			"Tropical At Land",
+			"Western Temperate",
+			"Eastern Tropics"
 		],
 		"flotsam": {
 			"qualityMultiplier": 0.421875,
@@ -895,7 +895,7 @@
 			]
 		},
 		"forceServerRules": 0,
-		"name": "North Equatorial",
+		"name": "South Tropical",
 		"region": "",
 		"resources": [
 			"Acai",
@@ -951,10 +951,10 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult,SunkenTreasureEnabled",
-		"serverCustomDatas2": ",0.36,1.1,1.1,0.75,1.25,0.6,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipNumMult,SunkenTreasureEnabled",
+		"serverCustomDatas2": ",0,1.1,1.1,0.75,0,0.6,1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Equatorial",
+		"serverTemplate": "Western Tropical",
 		"sotd": {
 			"levelLerp": 1.100000023841858,
 			"levelMinOveride": 0,
